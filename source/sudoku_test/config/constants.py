@@ -19,6 +19,6 @@ class Constants:
     LOGGING_FORMAT = "%(message)s"
     LOGGING_DATE_FORMAT = "[%X]"
     LOGGING_TRACEBACKS = True
-    
+
     # Sudoku constants
     GRID_SIZE = 9
